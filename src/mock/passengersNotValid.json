@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Jeremy",
+    "pickUpPointOrder": "1",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.0368",
+      "lng": "28.986"
+    }
+  },
+  {
+    "name": "Mathild",
+    "pickUpPointOrder": "2",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.0055",
+      "lng": "28.9769"
+    }
+  },
+  {
+    "name": "Joseph",
+    "pickUpPointOrder": "3",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.0536",
+      "lng": "29.0269"
+    }
+  },
+  {
+    "name": "Ishak",
+    "pickUpPointOrder": "4",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.042846",
+      "lng": "29.007528"
+    }
+  },
+  {
+    "name": "Moha",
+    "pickUpPointOrder": "5",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.079933",
+      "lng": "29.022088"
+    }
+  },
+  {
+    "name": "Shindy",
+    "pickUpPointOrder": "6",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.105679",
+      "lng": "29.033914"
+    }
+  },
+  {
+    "name": "Alex",
+    "pickUpPointOrder": "7",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.066950",
+      "lng": "28.987136"
+    }
+  },
+  {
+    "name": "Selen",
+    "pickUpPointOrder": "8",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.046939",
+      "lng": "28.943565"
+    }
+  },
+  {
+    "name": "Keith",
+    "pickUpPointOrder": "9",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.000316",
+      "lng": "28.775896"
+    }
+  },
+  {
+    "name": "Afleck",
+    "pickUpPointOrder": "10",
+    "tripDuration": "0",
+    "pickUpPoint": {
+      "lat": "41.022526",
+      "lng": "29.097793"
+    }
+  }
+]

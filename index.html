@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React + TS</title>
+    <script
+      defer
+      id="__googleMapsScriptId"
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places&callback=autoSuggestions"
+    ></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      window.autoSuggestions = function () {};
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
